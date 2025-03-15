@@ -1,4 +1,4 @@
-import Header from './Header.js?v=2'
+import Header from './Header.js?v=4'
 // import TabsCollection from './Tabs.js'
 // import VideoPlayerCollection from './VideoPlayer.js'
 // import ExpandableContentCollection from './ExpandableContent.js'
